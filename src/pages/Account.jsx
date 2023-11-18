@@ -18,6 +18,8 @@ const Account = () => {
       <div>
         <h2 className="text-center text-xl font-bold pt-12">Welcome, {user?.email}</h2>
         <h2 className="text-center text-xl font-bold pt-12">Welcome, {user?.email}</h2>
+        <h2 className="text-center text-xl font-bold pt-12">Welcome, {user?.email}</h2>
+
 
       </div>
       <button onClick={handleSignOut} className="border py-2 px-5 mt-10">
