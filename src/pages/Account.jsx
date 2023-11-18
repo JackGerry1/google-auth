@@ -16,9 +16,9 @@ const Account = () => {
     <div className="w-[300px] m-auto">
       <h1 className="text-center text-2xl font-bold pt-12">Account</h1>
       <div>
-        <h2 className="text-center text-xl font-bold pt-12">Welcome, {user?.email}</h2>
-        <h2 className="text-center text-xl font-bold pt-12">Welcome, {user?.email}</h2>
-        <h2 className="text-center text-xl font-bold pt-12">Welcome, {user?.email}</h2>
+        <h2 className="text-center text-xl font-bold pt-12">Welcsdfsdfsdome, {user?.email}</h2>
+        <h2 className="text-center text-xl font-bold pt-12">Welcosdfsdfsdfsdme, {user?.email}</h2>
+        <h2 className="text-center text-xl font-bold pt-12">Welfsdfsdfsdfsdfsdfcome, {user?.email}</h2>
 
 
       </div>
